@@ -2,11 +2,11 @@
 
 <!--
 **Doylej16/Doylej16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<div style="background-image: url('https://cursus.edu/storage/thumbnails/u9MS9AJcyvDNie3onfWCoaCrjThoruWrwtHRHuzY.jpeg');">
-  <!-- Your content goes here -->
-</div>
+<h1 align="center" style="background-image: url('https://cursus.edu/storage/thumbnails/u9MS9AJcyvDNie3onfWCoaCrjThoruWrwtHRHuzY.jpeg');">
 
+</h1>
 
 
 - 🔭 I’m currently working on my final project
