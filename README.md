@@ -4,9 +4,6 @@
 **Doylej16/Doylej16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Background}(./assets/codePic2.jpg)
-
-
 - 🔭 I’m currently working on my final project
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on almost anything
